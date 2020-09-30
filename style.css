@@ -9,6 +9,7 @@ html {
 
 body {
  background:black;
+ font-family:'Raleway', sans-serif;
 }
 
 header {
@@ -39,4 +40,14 @@ nav ul {
  color:black;
  text-decoration:none;
  list-style:none;
+}
+
+nav a {
+ text-decoration:none;
+ color:black;
+ transition: color 0.2s ease-in-out;
+}
+
+nav a:hover {
+ color:#ef4d8c;
 }
