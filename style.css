@@ -96,5 +96,35 @@
 
 .text-only p {
    font-size: 1.25vw;
-   
+   width: 80%;
+   margin-top :3vh;
+}
+
+.grid-container {
+   width:100%;
+   min-height:100vh;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+}
+
+.grid {
+   width:80%;
+   display:grid;
+   grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));
+   text-align: center;
+   grid-column-gap: 3vw;
+   grid-row-gap: 3vh;
+}
+
+.grid-cell-title {
+   font-weight:900;
+   text-transform:uppercase;
+   font-size: 4vw;
+   color:white;
+}
+
+.description {
+   font-weight: 300;
+   font-size:1.25vw;
 }
