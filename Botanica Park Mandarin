@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Botanica Park Lake</title>
+   <link rel="stylesheet" type="text/css" href="mystyles.css" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body style="background-color:grey">
+<div id="maindiv"/>
+
+   <h1>Friends of Botanica Park Lake</h1>
+   
+   <img src=red-rumped-parrot2.jpg alt="GPS Litter Picker" width="100%" />
+   
+   <p>Help us improve Botanica Park Lake and do some Citizen Science 
+   by joining our Friends Group.</p>
+   
+   <p><a href="about.html">About</a></p>
+   
+   <p><a href="events.html">Upcoming Events</a></p>
+
+   <p><a href="dataLitterMap.html">GPS Litter Picker map</a></p>
+
+   <p><a href="dataLitterPlot.html">Daily litter tally</a></p>
+   
+   <p>Total duck count</p>
+   
+   <p><a href="birdTable.html">Bird species count</a></p>
+   
+   <p><a href="birds.html">What bird is that?</a></p>
+   
+   <p>What plant is that?</p>
+   
+   <p><a href="frogs.html">What frog is that?</a></p>
+   
+   <p>Water level data</p>
+   
+   <p><a href="soilMoistPlot.html">Soil moisture sensor data</a></p>
+   
+   <p><a href="soilBatPlot.html">Soil moisture sensor battery level</a></p>
+   
+   <p>Contact us</p>
+
+</div>
+</body>
+</html>
